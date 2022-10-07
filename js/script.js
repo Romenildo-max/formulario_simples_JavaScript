@@ -1,3 +1,6 @@
 function meuEscopo () {
-    let nome = 'Romenildo';
+    
+    
+    
 }
+meuEscopo();
